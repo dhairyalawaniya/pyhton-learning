@@ -1,0 +1,5 @@
+a = 0 
+b = None
+c = "HEllo"
+d = {}
+print ( a or b or c and d)

@@ -1,0 +1,2 @@
+a = "Ironman" 
+print (f" {a} is very cool.")

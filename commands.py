@@ -1,0 +1,7 @@
+print ("hello\nworld")
+print ("amazing\njob")	
+print ("great\tkid")
+print ("gabbar\rsingh")
+print ("spider\bman")
+print ("bat\fman")
+print ("hyper\vsonic")

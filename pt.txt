@@ -1,0 +1,7 @@
+a = "Hello" 
+b = " World"
+print (a + b)
+
+c = 'hello '
+d = 3
+print (c*d) 

@@ -1,0 +1,6 @@
+a= "dama"
+b = 789 
+c = 789.76
+d = True 
+e = False
+print (type (a), '\n', type(b),'\n',  type(c),'\n',type(d),'\n', type(e) )

@@ -1,0 +1,5 @@
+nu = "bigman"
+by = 678
+qw = 67.35
+
+print ( nu, '\n' , by ,'\n' , qw, '\n' )

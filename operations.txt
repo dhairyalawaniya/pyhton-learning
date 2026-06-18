@@ -1,0 +1,58 @@
+a = 2
+b = 5
+print ( b-a )
+print (5-2)
+
+
+c = 2
+d = 5
+print (c*d)
+print (5*2)
+
+
+e = 10
+f = 2
+print (e/f)
+print (10/2)
+
+
+g = 9
+h = 2
+print (g%h)
+print (9%2)
+
+
+i = 10
+j = 20
+ 
+print (i+j)
+print (10+20)
+
+
+k = 20
+l = 5
+print (k//l)
+print (20//5)
+
+
+
+m = 7
+n = 3
+print (m**n)
+print (7**3)
+
+
+o = 81
+p = .5
+print (o**p)
+print (81**.5)
+
+
+q = "hello "
+r = "world"
+print (q+r)
+
+
+s = "hi"
+t = 3 
+print (s*t)
