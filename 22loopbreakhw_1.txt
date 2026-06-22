@@ -1,0 +1,11 @@
+b = "Jaipur"
+while True:
+ a = input('Enter the password: ')
+ if a == b :
+   print ("Welcome to your system ")
+   break
+ else :
+   print ("Please try again ")
+ 
+
+ 
