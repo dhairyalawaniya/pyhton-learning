@@ -1,8 +1,0 @@
-a = int(input('enter a number '))
-b = 2
-while a%b != a
- b += 1
- if b == a :
-  print ("prime number")
- else :
-  print (b)
