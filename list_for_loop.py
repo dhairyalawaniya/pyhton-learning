@@ -10,10 +10,10 @@ for y in a :
     b +=  y
 print (b)
 
-## Write a program to find the largest number in a list without using the built-in max() function
-a = [67 , 83 , 12 , 90 , 56]   
-b = []
-for y in a :      
+# Write a program to find the largest number in a list without using the built-in max() function
+#a = [67 , 83 , 12 , 90 , 56]   
+#b = []
+#for y in a :      
       
 
 
